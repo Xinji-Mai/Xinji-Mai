@@ -27,7 +27,7 @@ earlier I worked extensively on affective computing and dynamic facial expressio
 - 🎓 **M.S. in Computer Science**, Fudan University
 - 🏢 Research affiliation: **Alibaba Group** / **Fudan University**
 - 🌱 Currently exploring: efficient multimodal models, world models, and self-evolving LLM agents
-- 📫 Reach me: `your-email@example.com` <!-- TODO: replace with your preferred contact email -->
+- 📫 Reach me: `xjmai23@m.fudan.edu.cn`
 
 ### 🔬 Research Interests · 研究方向
 
