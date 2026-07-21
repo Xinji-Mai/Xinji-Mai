@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Xinji Mai (麦新纪) 👋</h1>
+<h1 align="center">Hi, I'm Xinji Mai 👋</h1>
 
 <p align="center">
-  <b>Researcher · Multimodal LLMs &amp; Agentic Reinforcement Learning</b><br/>
-  <b>研究方向：多模态大语言模型 &amp; 智能体强化学习</b>
+  <b>Researcher · Agentic Reinforcement Learning</b>
 </p>
 
 <p align="center">
@@ -17,11 +16,11 @@
 
 ### 🧑‍🔬 About Me · 关于我
 
-I am a researcher working on **Multimodal Large Language Models** and **Agentic Reinforcement Learning**.
+I am a researcher working on **Agentic Reinforcement Learning**.
 My recent work focuses on self-evolving agent systems, reasoning, and scaling laws for agentic RL;
 earlier I worked extensively on affective computing and dynamic facial expression recognition.
 
-> 我是一名研究者，方向为**多模态大语言模型**与**智能体强化学习**，近期聚焦自进化智能体系统、推理与 Agentic RL 的规模化规律；早期主要从事情感计算与动态人脸表情识别研究。
+> 我是一名研究者，研究方向为**智能体强化学习**，近期聚焦自进化智能体系统、推理与 Agentic RL 的规模化规律；早期主要从事情感计算与动态人脸表情识别研究。
 
 - 🎓 **B.S. in Microelectronics**, Sun Yat-sen University
 - 🎓 **M.S. in Computer Science**, Fudan University
@@ -31,7 +30,7 @@ earlier I worked extensively on affective computing and dynamic facial expressio
 
 ### 🔬 Research Interests · 研究方向
 
-`Multimodal LLMs` · `Agentic RL` · `Reasoning` · `World Models` · `Affective Computing`
+`Agentic Reinforcement Learning`
 
 ### 📚 Selected Publications · 代表论文
 
