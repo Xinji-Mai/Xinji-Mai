@@ -17,15 +17,14 @@
 ### 🧑‍🔬 About Me · 关于我
 
 I am a researcher working on **Agentic Reinforcement Learning**.
-My recent work focuses on self-evolving agent systems, reasoning, and scaling laws for agentic RL;
-earlier I worked extensively on affective computing and dynamic facial expression recognition.
+My recent work focuses on self-evolving agent systems, reasoning, and scaling laws for agentic RL.
 
-> 我是一名研究者，研究方向为**智能体强化学习**，近期聚焦自进化智能体系统、推理与 Agentic RL 的规模化规律；早期主要从事情感计算与动态人脸表情识别研究。
+> 我是一名研究者，研究方向为**智能体强化学习**，近期聚焦自进化智能体系统、推理与 Agentic RL 的规模化规律。
 
 - 🎓 **B.S. in Microelectronics**, Sun Yat-sen University
 - 🎓 **M.S. in Computer Science**, Fudan University
-- 🏢 Research affiliation: **Alibaba Group** / **Fudan University**
-- 🌱 Currently exploring: efficient multimodal models, world models, and self-evolving LLM agents
+- 🏢 **Tongyi Lab, Alibaba Group**
+- 🌱 Currently exploring: self-evolving agents, reasoning, and scaling laws for agentic RL
 - 📫 Reach me: `xjmai23@m.fudan.edu.cn`
 
 ### 🔬 Research Interests · 研究方向
@@ -55,8 +54,6 @@ earlier I worked extensively on affective computing and dynamic facial expressio
 | --- | --- |
 | [AgentEvolver](https://github.com/modelscope/AgentEvolver) | Towards an efficient self-evolving agent system |
 | [CMLM-ZhongJing](https://github.com/pariskang/CMLM-ZhongJing) | The first Traditional Chinese Medicine LLM — "ZhongJing" |
-| [UMBEnet](https://github.com/Xinji-Mai/UMBEnet) | Unified Modality Brain-Inspired Emotional Central Mechanism |
-| [Hi-EF](https://github.com/Xinji-Mai/Hi-EF) | Benchmarking emotion forecasting in human-interaction |
 
 ### 📬 Contact · 联系方式
 
