@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Xinji Mai 👋</h1>
+<h1 align="center">Xinji Mai (Shinji Mai · 麦新纪)</h1>
 
 <p align="center">
-  <b>Researcher · Agentic Reinforcement Learning</b>
+  <b>Agentic Reinforcement Learning · Recursive Self-Improvement · LLM Post-training · Environment Scaling</b>
 </p>
 
 <p align="center">
@@ -16,31 +16,32 @@
 
 ### 🧑‍🔬 About Me · 关于我
 
-I am a researcher working on **Agentic Reinforcement Learning**.
-My recent work focuses on self-evolving agent systems, reasoning, and scaling laws for agentic RL.
+I am an Algorithm Engineer at Tongyi Lab, Alibaba Group. My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
 
-> 我是一名研究者，研究方向为**智能体强化学习**，近期聚焦自进化智能体系统、推理与 Agentic RL 的规模化规律。
+I lead the development of the **CuES Series (CuES, CuES-plus, and CuES-Next)**, a family of scalable, environment-grounded data synthesis pipelines supporting the post-training of **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional environments, as well as specialized model families such as **QwenPaw-Flash and Piccolo**.
 
-- 🎓 **B.S. in Microelectronics**, Sun Yat-sen University
-- 🎓 **M.S. in Computer Science**, Fudan University
-- 🏢 **Tongyi Lab, Alibaba Group**
-- 🌱 Currently exploring: self-evolving agents, reasoning, and scaling laws for agentic RL
+My research interests include professional environment scaling, agentic RL, RSI and Post-training.
+
+Previously, I received my M.S. in Computer Science from Fudan University and B.S. in Microelectronics from Sun Yat-sen University.
+
 - 📫 Reach me: `xjmai23@m.fudan.edu.cn`
 
 ### 🔬 Research Interests · 研究方向
 
-`Agentic Reinforcement Learning`
+`Agentic Reinforcement Learning` · `Recursive Self-Improvement` · `LLM Post-training` · `Environment Scaling`
 
 ### 📚 Selected Publications · 代表论文
 
-> A selection of works. See my [Google Scholar](https://scholar.google.com/citations?user=6yh67YwAAAAJ) for the full list (~320 citations, h-index 9).
+> See [Google Scholar](https://scholar.google.com/citations?user=6yh67YwAAAAJ) for the full list. <sup>*</sup> Equal contribution.
 
-- **Agentic RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving.**
-  <ins>Xinji Mai</ins>, Haotian Xu, Weinong Wang, Yingying Zhang, Wenqiang Zhang. *NeurIPS*.
-- **CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL.**
-  <ins>Xinji Mai</ins>, Yunpeng Zhai, Zhicheng Chen, et al. *arXiv 2025*.
-- **AgentEvolver: Towards Efficient Self-Evolving Agent System.**
-  Yunpeng Zhai, ..., <ins>Xinji Mai</ins>, et al. *arXiv 2025*.
+- **[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)**  
+  Piccolo Team. Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, <ins>Xinji Mai</ins>, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou. *arXiv 2026*.
+- **[Agentic RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html)**  
+  <ins>Xinji Mai</ins><sup>*</sup>, Haotian Xu<sup>*</sup>, Xing W, Weinong Wang, Yingying Zhang, Wenqiang Zhang. *NeurIPS 2025*.
+- **[CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL](https://arxiv.org/abs/2512.01311)**  
+  <ins>Shinji Mai</ins><sup>*</sup>, Yunpeng Zhai<sup>*</sup>, Ziqian Chen, Cheng Chen, Anni Zou, Shuchang Tao, Zhaoyang Liu, Bolin Ding. *arXiv 2025*.
+- **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**  
+  Yunpeng Zhai<sup>*</sup>, Shuchang Tao<sup>*</sup>, Cheng Chen<sup>*</sup>, Anni Zou<sup>*</sup>, Ziqian Chen<sup>*</sup>, Qingxu Fu<sup>*</sup>, <ins>Shinji Mai</ins><sup>*</sup>, Li Yu, Jiaji Deng, Zouying Cao, Zhaoyang Liu, Bolin Ding, Jingren Zhou. *arXiv 2025*. [Code](https://github.com/modelscope/AgentEvolver).
 - **From Efficient Multimodal Models to World Models: A Survey.**
   <ins>Xinji Mai</ins>, Zeng Tao, Junxiong Lin, et al. *arXiv 2024*.
 - **All Rivers Run into the Sea: Unified Modality Brain-Inspired Emotional Central Mechanism.**
