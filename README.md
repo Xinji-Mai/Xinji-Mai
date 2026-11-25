@@ -57,6 +57,7 @@ Previously, I received my M.S. in Computer Science from Fudan University and B.S
 - 🆔 ORCID: <https://orcid.org/0009-0003-4596-5391>
 - 📖 DBLP: <https://dblp.org/pid/371/9725>
 - 📝 OpenReview: <https://openreview.net/profile?id=~Xinji_Mai1>
+- 🤗 Hugging Face: <https://huggingface.co/Ice-lemon>
 
 <!--
   This README lives in the special repository named after your GitHub account (Xinji-Mai/Xinji-Mai)
