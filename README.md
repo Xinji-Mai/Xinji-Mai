@@ -1,4 +1,4 @@
-<h1 align="center">Xinji Mai (Shinji Mai · 麦新纪)</h1>
+<h1 align="center"><a href="https://xinji-mai.github.io/">Xinji Mai (麦新纪)</a></h1>
 
 <p align="center">
   <b>Agentic Reinforcement Learning · Recursive Self-Improvement · LLM Post-training · Environment Scaling</b>
