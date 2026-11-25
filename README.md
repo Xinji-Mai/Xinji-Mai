@@ -42,12 +42,6 @@ Previously, I received my M.S. in Computer Science from Fudan University and B.S
   <ins>Shinji Mai</ins><sup>*</sup>, Yunpeng Zhai<sup>*</sup>, Ziqian Chen, Cheng Chen, Anni Zou, Shuchang Tao, Zhaoyang Liu, Bolin Ding. *arXiv 2025*.
 - **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**  
   Yunpeng Zhai<sup>*</sup>, Shuchang Tao<sup>*</sup>, Cheng Chen<sup>*</sup>, Anni Zou<sup>*</sup>, Ziqian Chen<sup>*</sup>, Qingxu Fu<sup>*</sup>, <ins>Shinji Mai</ins><sup>*</sup>, Li Yu, Jiaji Deng, Zouying Cao, Zhaoyang Liu, Bolin Ding, Jingren Zhou. *arXiv 2025*. [Code](https://github.com/modelscope/AgentEvolver).
-- **From Efficient Multimodal Models to World Models: A Survey.**
-  <ins>Xinji Mai</ins>, Zeng Tao, Junxiong Lin, et al. *arXiv 2024*.
-- **All Rivers Run into the Sea: Unified Modality Brain-Inspired Emotional Central Mechanism.**
-  <ins>Xinji Mai</ins>, Junxiong Lin, Haoran Wang, et al. *ACM MM 2024*.
-- **OUS: Bridging Scene Context and Facial Features to Overcome the Rigid Cognitive Problem.**
-  <ins>Xinji Mai</ins>, Haoran Wang, Zeng Tao, et al. *AAAI 2025*.
 
 ### 🚀 Featured Projects · 代表项目
 
