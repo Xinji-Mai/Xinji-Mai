@@ -16,22 +16,22 @@
 
 ### 🧑‍🔬 About Me · 关于我
 
-I am an Algorithm Engineer at Tongyi Lab, Alibaba Group. My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
+I am Xinji Mai (Shinji Mai, 麦新纪), an Algorithm Engineer at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/). My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
 
-I lead the development of the **CuES Family (CuES, CuES-plus, and CuES-Next)**, a family of scalable, environment-grounded data synthesis pipelines supporting the post-training of **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional environments, as well as specialized model families such as **QwenPaw-Flash and Piccolo**.
+I lead the development of the **CuES Family (CuES, CuES-plus, and CuES-Next)**, a set of scalable, environment-grounded data synthesis pipelines. They support post-training for **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional settings, as well as for specialized model families such as **QwenPaw-Flash and Piccolo**.
 
-My current goal is to raise the capability ceiling of models and agents. I take a data-first approach: I build training data from executable environments and use feedback to guide post-training.
+My research aims to raise the capability ceiling of models and agents. I see data as a foundational source of model intelligence, so I focus on building training data in executable environments and using feedback to guide post-training.
 
 My main research directions are:
 
-- **Agentic Reinforcement Learning.** I develop RL algorithms for dialogue and agentic tasks such as tool use, deep research, and software engineering. I also study [how capabilities like code execution emerge through RL](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html).
-- **Recursive Self-Improvement (RSI).** I design algorithms and infrastructure that let agents learn continually and improve autonomously, from self-generated tasks in [AgentEvolver](https://arxiv.org/abs/2511.10395) to the co-evolution of decision models and training data in [Piccolo](https://arxiv.org/abs/2611.24651).
-- **LLM Post-training.** I study feedback-driven post-training and fine-tuning methods to make learning more stable and efficient on long-horizon tasks.
-- **Environment Scaling.** I scale executable professional work environments and use verifiable feedback to build training data. This work includes [Cowork-Gym](https://arxiv.org/abs/2610.17670) and the **CuES Family (closed source)**.
+- **Agentic Reinforcement Learning (Agentic RL).** I study reinforcement learning algorithms for dialogue and agentic tasks, and explore how capabilities such as code execution emerge through RL ([Agentic RL Scaling Law](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html)).
+- **Recursive Self-Improvement (RSI).** I design algorithms and infrastructure for continual learning and autonomous improvement, from self-directed task generation, exploration, and attribution in [AgentEvolver](https://arxiv.org/abs/2511.10395) to the co-evolution of decision models and training data in [Piccolo](https://arxiv.org/abs/2611.24651).
+- **LLM Post-training.** I study feedback-driven post-training and fine-tuning methods to improve training stability and learning efficiency on long-horizon tasks.
+- **Environment Scaling.** I scale executable professional work environments and use verifiable feedback to build training data. This work includes [Cowork-Gym](https://arxiv.org/abs/2610.17670) and the **CuES Family**.
 
-I am a technological idealist, and my long-term goal is to help build AGI. I hope advances in intelligence can help create a world where people and intelligent agents can live and act more freely and on more equal terms, and where no one is held back by material deprivation from pursuing their aspirations and living a life they find meaningful.
+My long-term goal is to help realize artificial general intelligence (AGI). I hope advances in intelligence will help people and intelligent agents live more freely and on more equal terms, with the opportunity to pursue their own aspirations.
 
-Previously, I received my M.S. in Computer Science from Fudan University and B.S. in Microelectronics from Sun Yat-sen University.
+I earned my master's degree in Computer Technology from [Fudan University](https://www.fudan.edu.cn/) and my bachelor's degree in Microelectronics from [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 - 📫 Reach me: `xjmai23@m.fudan.edu.cn`
 
@@ -52,6 +52,8 @@ Previously, I received my M.S. in Computer Science from Fudan University and B.S
 
 | Project | Description |
 | --- | --- |
+| [CuES](https://github.com/modelscope/AgentEvolver/tree/main/research/CuES) | Public implementation of the CuES paper on environment-grounded task synthesis |
+| [Agentic RL Scaling Law](https://github.com/yyht/openrlhf_async_pipline) | Code for reinforcement learning with spontaneous code execution |
 | [AgentEvolver](https://github.com/modelscope/AgentEvolver) | Towards an efficient self-evolving agent system |
 | [CMLM-ZhongJing](https://github.com/pariskang/CMLM-ZhongJing) | The first Traditional Chinese Medicine LLM — "ZhongJing" |
 
