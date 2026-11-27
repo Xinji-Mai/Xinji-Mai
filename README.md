@@ -16,7 +16,7 @@
 
 ### 🧑‍🔬 About Me · 关于我
 
-I am Xinji Mai (Shinji Mai, 麦新纪), an Algorithm Engineer at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/). My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
+I am Xinji Mai (麦新纪), also published as Shinji Mai, an Algorithm Engineer at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/). My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
 
 I lead the development of the **CuES Family (CuES, CuES-plus, and CuES-Next)**, a set of scalable, environment-grounded data synthesis pipelines. They support post-training for **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional settings, as well as for specialized model families such as **QwenPaw-Flash and Piccolo**.
 
@@ -31,7 +31,7 @@ My main research directions are:
 
 My long-term goal is to help realize artificial general intelligence (AGI). I hope advances in intelligence will help people and intelligent agents live more freely and on more equal terms, with the opportunity to pursue their own aspirations.
 
-I earned my master's degree in Computer Technology from [Fudan University](https://www.fudan.edu.cn/) and my bachelor's degree in Microelectronics from [Sun Yat-sen University](https://www.sysu.edu.cn/).
+I earned my master's degree in Computer Technology from [Fudan University](https://www.fudan.edu.cn/) in June 2026 and my bachelor's degree in Microelectronics Science and Engineering from [Sun Yat-sen University](https://www.sysu.edu.cn/) in June 2023.
 
 - 📫 Reach me: `xjmai23@m.fudan.edu.cn`
 
@@ -39,14 +39,16 @@ I earned my master's degree in Computer Technology from [Fudan University](https
 
 > See [Google Scholar](https://scholar.google.com/citations?user=6yh67YwAAAAJ) for the full list. <sup>*</sup> Equal contribution.
 
-- **[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)**  
+- **[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)** · *Recursive Self-Improvement*  
   Piccolo Team. Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, <ins>Xinji Mai</ins>, Haowen Gao, Zhuo Zhang, Xuchen Pan, Mengsu Ding, Jiaji Deng, Yuexiang Xie, Xiaoming Qin, Weirui Kuang, Zhaoyang Liu, Yaliang Li, Bolin Ding, Jingren Zhou. *arXiv 2026*.
-- **[Agentic RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html)**  
+- **[Agentic RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html)** · *Agentic RL*  
   <ins>Xinji Mai</ins><sup>*</sup>, Haotian Xu<sup>*</sup>, Xing W, Weinong Wang, Yingying Zhang, Wenqiang Zhang. *NeurIPS 2025*.
-- **[CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL](https://arxiv.org/abs/2512.01311)**  
+- **[CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL](https://arxiv.org/abs/2512.01311)** · *Environment-grounded Data Synthesis*  
   <ins>Shinji Mai</ins><sup>*</sup>, Yunpeng Zhai<sup>*</sup>, Ziqian Chen, Cheng Chen, Anni Zou, Shuchang Tao, Zhaoyang Liu, Bolin Ding. *arXiv 2025*.
-- **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**  
+- **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)** · *Self-Evolving Agents*  
   Yunpeng Zhai<sup>*</sup>, Shuchang Tao<sup>*</sup>, Cheng Chen<sup>*</sup>, Anni Zou<sup>*</sup>, Ziqian Chen<sup>*</sup>, Qingxu Fu<sup>*</sup>, <ins>Shinji Mai</ins><sup>*</sup>, Li Yu, Jiaji Deng, Zouying Cao, Zhaoyang Liu, Bolin Ding, Jingren Zhou. *arXiv 2025*. [Code](https://github.com/modelscope/AgentEvolver).
+- **[Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670)** · *Environment Scaling & Post-training*  
+  Anni Zou<sup>*</sup>, Cheng Chen<sup>*</sup>, Jiaji Deng<sup>*</sup>, Weikang Zhou<sup>*</sup>, <ins>Xinji Mai</ins><sup>*</sup>, Yue Wu<sup>*</sup>, Jianing Lin, Lipeng Xie, Lixiong Qin, Qingyue Zhao, Que Shen, Shuchang Tao, Xuchen Pan, Yaliang Li, Yunpeng Zhai, Yushuo Chen, Zhihai Wang, Zhuo Zhang, Zhaoyang Liu, Bolin Ding, Jingren Zhou. *arXiv 2026*.
 
 ### 🚀 Featured Projects · 代表项目
 
