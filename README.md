@@ -18,17 +18,22 @@
 
 I am an Algorithm Engineer at Tongyi Lab, Alibaba Group. My research focuses on **Agentic Reinforcement Learning, Recursive Self-Improvement (RSI), Self-Evolving Agents, and LLM Post-training**.
 
-I lead the development of the **CuES Series (CuES, CuES-plus, and CuES-Next)**, a family of scalable, environment-grounded data synthesis pipelines supporting the post-training of **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional environments, as well as specialized model families such as **QwenPaw-Flash and Piccolo**.
+I lead the development of the **CuES Family (CuES, CuES-plus, and CuES-Next)**, a family of scalable, environment-grounded data synthesis pipelines supporting the post-training of **Qwen3.7, Qwen3.8, and Qwen4** across Cowork, productivity, and other professional environments, as well as specialized model families such as **QwenPaw-Flash and Piccolo**.
 
-My research interests include professional environment scaling, agentic RL, RSI and Post-training.
+My current goal is to raise the capability ceiling of models and agents. I take a data-first approach: I build training data from executable environments and use feedback to guide post-training.
+
+My main research directions are:
+
+- **Agentic Reinforcement Learning.** I develop RL algorithms for dialogue and agentic tasks such as tool use, deep research, and software engineering. I also study [how capabilities like code execution emerge through RL](https://proceedings.neurips.cc/paper_files/paper/2025/hash/0adea62f2f98c5035aded00d4b2064e6-Abstract-Conference.html).
+- **Recursive Self-Improvement (RSI).** I design algorithms and infrastructure that let agents learn continually and improve autonomously, from self-generated tasks in [AgentEvolver](https://arxiv.org/abs/2511.10395) to the co-evolution of decision models and training data in [Piccolo](https://arxiv.org/abs/2611.24651).
+- **LLM Post-training.** I study feedback-driven post-training and fine-tuning methods to make learning more stable and efficient on long-horizon tasks.
+- **Environment Scaling.** I scale executable professional work environments and use verifiable feedback to build training data. This work includes [Cowork-Gym](https://arxiv.org/abs/2610.17670) and the **CuES Family (closed source)**.
+
+I am a technological idealist, and my long-term goal is to help build AGI. I hope advances in intelligence can help create a world where people and intelligent agents can live and act more freely and on more equal terms, and where no one is held back by material deprivation from pursuing their aspirations and living a life they find meaningful.
 
 Previously, I received my M.S. in Computer Science from Fudan University and B.S. in Microelectronics from Sun Yat-sen University.
 
 - 📫 Reach me: `xjmai23@m.fudan.edu.cn`
-
-### 🔬 Research Interests · 研究方向
-
-`Agentic Reinforcement Learning` · `Recursive Self-Improvement` · `LLM Post-training` · `Environment Scaling`
 
 ### 📚 Selected Publications · 代表论文
 
